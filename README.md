@@ -23,5 +23,3 @@
 
 > “Learning by building.” — Open to remote backend roles & freelance projects.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
