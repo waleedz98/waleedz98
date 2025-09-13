@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋 I'm Waleed Ahmed NourEddin
 
-<!--
-**waleedz98/waleedz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Fresh Graduate — BSc Computer Science & AI (Sohag University, Class of 2024)  
+💻 Backend Developer — **PHP • Laravel • MySQL**  
+🔧 Also: Python, C++, Networking basics (CCNA), Linux
 
-Here are some ideas to get you started:
+## 🔭 Featured Projects
+- **laravel-crud** — Simple Posts CRUD with authentication, validation, migrations.
+- **portfolio** — My personal portfolio (Laravel / HTML).
+- **scripts** — Small Python/C++ utilities and learning projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+**Languages:** PHP, Python, C++  
+**Frameworks & Tools:** Laravel, Composer, Git/GitHub, VS Code  
+**DB:** MySQL, SQLite  
+**Other:** Linux basics, Networking (CCNA), REST APIs
+
+## 📫 Contact
+- LinkedIn: www.linkedin.com/in/waleed-ahmed-57a5a0230  
+- Email: your.waleedn00reddin@gmail.com
+
+---
+
+> “Learning by building.” — Open to remote backend roles & freelance projects.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
