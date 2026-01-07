@@ -56,7 +56,7 @@ I enjoy building practical systems, automating workflows, and solving real-world
 
 ## 📫 Contact
 - 📧 Email: your.waleedn00reddin@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/waleed-ahmed-57a5a0230  
+- 💼 LinkedIn: https://www.linkedin.com/in/waleed-noureddin
 - 💻 GitHub: https://github.com/waleedz98
 
 ---
